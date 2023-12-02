@@ -27,6 +27,10 @@ Welcome to the repository for the Hiking Adventures website! This project is a s
 - `index.css` - Styling for the website.
 - `/images` - Directory containing images used in the website.
 
+## Screenshots
+
+<img width="1075" alt="Hiking Adventures Website Screenshot" src="images/hiking-adventures-screenshot.jpg">
+
 ## Contributing
 
 Contributions to improve the website are welcome. Please follow these steps to contribute:
@@ -37,4 +41,4 @@ Contributions to improve the website are welcome. Please follow these steps to c
 5. Create a new Pull Request.
 
 ## Author
-This project was developed by - Mario Rodrigues Jr. [MarioJr92](https://github.com/mariojr92)
+- This project was developed by - Mario Rodrigues Jr. - [MarioJr92](https://github.com/mariojr92)
